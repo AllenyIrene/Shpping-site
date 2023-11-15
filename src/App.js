@@ -17,10 +17,10 @@ function App() {
   return (
     <div className="App">
       <ShopContext>
-      <Router>
+      <Router  basename="/Shpping-site." >
         <Routes>
           <Route path='/' element={<Layout/>}>
-          <Route index element={<Home/>}/>
+          <Route index exact element={<Home/>}/>
           <Route path='shop' element={<Shop/>}/>
           <Route path='blog' element={<Blog/>}/>
           <Route path='about' element={<About/>}/>
