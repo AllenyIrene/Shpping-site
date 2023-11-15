@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Shpping-site/static/css/main.8a80f31b.css",
+    "main.js": "/Shpping-site/static/js/main.0de8c7b1.js",
+    "static/media/pr1.jpeg": "/Shpping-site/static/media/pr1.ef703ec0d40ff18052f2.jpeg",
+    "static/media/wb5.jpeg": "/Shpping-site/static/media/wb5.3caf3ac6b5b4a0d165ef.jpeg",
+    "static/media/banner9.jpeg": "/Shpping-site/static/media/banner9.64571075c82ae53b69f2.jpeg",
+    "static/media/banner2.jpeg": "/Shpping-site/static/media/banner2.82d47a065aab9d9ca219.jpeg",
+    "static/media/d5.jpeg": "/Shpping-site/static/media/d5.a278f51261c6f0ca9c31.jpeg",
+    "static/media/d6.jpeg": "/Shpping-site/static/media/d6.dab5107079982ad4d77d.jpeg",
+    "static/media/maleprd.jpeg": "/Shpping-site/static/media/maleprd.ac466104740f81a20851.jpeg",
+    "static/media/d2.jpeg": "/Shpping-site/static/media/d2.bf06bbdc9b1e99fa5858.jpeg",
+    "static/media/banner6.jpeg": "/Shpping-site/static/media/banner6.425f96e03218f471e6a2.jpeg",
+    "static/media/banner8.jpeg": "/Shpping-site/static/media/banner8.cb7606e68ec19cfaefb0.jpeg",
+    "static/media/d3.jpeg": "/Shpping-site/static/media/d3.2964814a749f481870a1.jpeg",
+    "static/media/d4.jpeg": "/Shpping-site/static/media/d4.9dd1bc5597ebe5126044.jpeg",
+    "static/media/logo5.jpeg": "/Shpping-site/static/media/logo5.b23fae013db5717605a7.jpeg",
+    "static/media/background1.jpeg": "/Shpping-site/static/media/background1.95ee693a5710da1463c0.jpeg",
+    "static/media/background2.jpeg": "/Shpping-site/static/media/background2.358aaf448a65720def02.jpeg",
+    "static/media/banner10.jpeg": "/Shpping-site/static/media/banner10.f0488eaa3d15621c4e48.jpeg",
+    "static/media/d9.jpeg": "/Shpping-site/static/media/d9.07e759a1f00294a98c86.jpeg",
+    "static/media/bg3.jpeg": "/Shpping-site/static/media/bg3.b9f8af7468bf8dbe896c.jpeg",
+    "static/media/st6.jpeg": "/Shpping-site/static/media/st6.5aca33714f2323fe6dd0.jpeg",
+    "static/media/st3.jpeg": "/Shpping-site/static/media/st3.4879f55fdc0eb68160ad.jpeg",
+    "static/media/wb10.jpeg": "/Shpping-site/static/media/wb10.0d3b2ff4adf577fcdfa5.jpeg",
+    "static/media/st2.jpeg": "/Shpping-site/static/media/st2.c5111c1dfc32901cc210.jpeg",
+    "static/media/d8.jpeg": "/Shpping-site/static/media/d8.e9f3c923cb7d230178da.jpeg",
+    "static/media/c14.jpeg": "/Shpping-site/static/media/c14.025f6ae3a02fa334089c.jpeg",
+    "static/media/d1.jpeg": "/Shpping-site/static/media/d1.70f816d697106ffed23f.jpeg",
+    "static/media/pr2.jpeg": "/Shpping-site/static/media/pr2.7c6cf374d401ca652ead.jpeg",
+    "static/media/ci1.jpeg": "/Shpping-site/static/media/ci1.26b67b4710d7e8ecbe2a.jpeg",
+    "static/media/st1.jpeg": "/Shpping-site/static/media/st1.dc58c13b152bde5098b8.jpeg",
+    "index.html": "/Shpping-site/index.html",
+    "main.8a80f31b.css.map": "/Shpping-site/static/css/main.8a80f31b.css.map",
+    "main.0de8c7b1.js.map": "/Shpping-site/static/js/main.0de8c7b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a80f31b.css",
+    "static/js/main.0de8c7b1.js"
+  ]
+}
