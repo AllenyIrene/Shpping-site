@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shpping-site/static/css/main.8a80f31b.css",
-    "main.js": "/Shpping-site/static/js/main.0de8c7b1.js",
+    "main.js": "/Shpping-site/static/js/main.60d52844.js",
     "static/media/pr1.jpeg": "/Shpping-site/static/media/pr1.ef703ec0d40ff18052f2.jpeg",
     "static/media/wb5.jpeg": "/Shpping-site/static/media/wb5.3caf3ac6b5b4a0d165ef.jpeg",
     "static/media/banner9.jpeg": "/Shpping-site/static/media/banner9.64571075c82ae53b69f2.jpeg",
@@ -32,10 +32,10 @@
     "static/media/st1.jpeg": "/Shpping-site/static/media/st1.dc58c13b152bde5098b8.jpeg",
     "index.html": "/Shpping-site/index.html",
     "main.8a80f31b.css.map": "/Shpping-site/static/css/main.8a80f31b.css.map",
-    "main.0de8c7b1.js.map": "/Shpping-site/static/js/main.0de8c7b1.js.map"
+    "main.60d52844.js.map": "/Shpping-site/static/js/main.60d52844.js.map"
   },
   "entrypoints": [
     "static/css/main.8a80f31b.css",
-    "static/js/main.0de8c7b1.js"
+    "static/js/main.60d52844.js"
   ]
 }
